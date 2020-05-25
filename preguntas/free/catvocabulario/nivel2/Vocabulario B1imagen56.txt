@@ -1,0 +1,5 @@
+Imagen
+¿Qué tiene en la mano?
+sujetador.png
+Respuesta
+un sujetador

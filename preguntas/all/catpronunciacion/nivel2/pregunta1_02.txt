@@ -1,0 +1,10 @@
+Multiple
+De que color es el caballo blanco de Santiago ?
+
+Blanco
+Verde
+Amarillo
+Azul
+
+Respuesta
+Blanco

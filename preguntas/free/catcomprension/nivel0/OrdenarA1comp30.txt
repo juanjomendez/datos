@@ -1,0 +1,3 @@
+Ordenar
+Juan prefiere tomar tostadas para desayunar
+Juan*prefiere*tomar*tostadas*para desayunar

@@ -1,0 +1,5 @@
+Imagen
+¿Qué tiempo hace?
+llover.png
+Respuesta
+está lloviendo

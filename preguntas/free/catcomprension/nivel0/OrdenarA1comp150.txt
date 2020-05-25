@@ -1,0 +1,3 @@
+Ordenar
+Podemos pagar con tarjeta en esta tienda
+Podemos*pagar*con tarjeta*en esta tienda

@@ -1,0 +1,3 @@
+Ordenar
+El precio de la mesa es muy alto
+El precio*de*la mesa*es*muy alto

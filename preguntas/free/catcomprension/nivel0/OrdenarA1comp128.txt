@@ -1,0 +1,3 @@
+Ordenar
+Esta calle tiene muchos restaurantes y tiendas de ropa
+Esta calle*tiene*muchos restaurantes*y*tiendas de ropa

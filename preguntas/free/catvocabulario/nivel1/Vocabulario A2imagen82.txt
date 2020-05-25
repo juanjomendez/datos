@@ -1,0 +1,5 @@
+Imagen
+¿Qué parte de la casa es?
+cocina.png
+Respuesta
+la cocina

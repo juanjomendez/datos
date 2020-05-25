@@ -1,0 +1,5 @@
+Imagen
+¿Qué plato es?
+sopa.png
+Respuesta
+sopa

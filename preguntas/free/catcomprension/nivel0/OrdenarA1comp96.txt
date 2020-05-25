@@ -1,0 +1,3 @@
+Ordenar
+El curso de masaje dura 6 meses
+El curso de masaje*dura*6 meses

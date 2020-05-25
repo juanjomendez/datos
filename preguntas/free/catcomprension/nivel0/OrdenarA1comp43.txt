@@ -1,0 +1,3 @@
+Ordenar
+La cocina tiene muchos electrodomésticos
+La cocina*tiene*muchos electrodomésticos

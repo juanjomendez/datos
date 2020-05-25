@@ -1,0 +1,6 @@
+
+Imagen
+¿Qué ves en la imagen?
+ajedrez.png
+Respuesta
+un ajedrez

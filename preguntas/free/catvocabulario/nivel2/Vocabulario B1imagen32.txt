@@ -1,0 +1,5 @@
+Imagen
+¿Qué acción es?
+ganar.png
+Respuesta
+ganar

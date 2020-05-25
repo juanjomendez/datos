@@ -1,0 +1,3 @@
+Ordenar
+Voy a ver obras de arte en el museo
+Voy a*ver*obras de arte*en el museo

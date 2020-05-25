@@ -1,0 +1,5 @@
+Imagen
+¿De qué material están hechos estos zapatos?
+piel.png
+Respuesta
+piel

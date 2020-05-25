@@ -1,0 +1,3 @@
+Ordenar
+El gimnasio tiene muchas actividades
+El gimnasio*tiene*muchas actividades

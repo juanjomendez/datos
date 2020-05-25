@@ -1,0 +1,5 @@
+Imagen
+¿Qué verdura es?
+coliflor.png
+Respuesta
+coliflor

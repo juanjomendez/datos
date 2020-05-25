@@ -1,0 +1,5 @@
+Imagen
+¿Qué ves en la imagen?
+helado.png
+Respuesta
+una copa de helado

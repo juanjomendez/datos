@@ -1,0 +1,5 @@
+Imagen
+¿Qué acción es?
+estudiar.png
+Respuesta
+estudiar

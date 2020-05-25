@@ -1,0 +1,9 @@
+Multiple
+La taquilla abre....las diez...la mañana y cierra.....las 8 de la tarde.
+
+de/de/de
+a/de/a
+a/a/de
+
+Respuesta
+a/de/a

@@ -1,0 +1,3 @@
+Ordenar
+Quiero un paquete de arroz y una botella de vino
+Quiero*un paquete*de arroz*y*una botella*de vino

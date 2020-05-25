@@ -1,0 +1,3 @@
+Ordenar
+Hay una lámpara al lado de la mesa
+Hay*una lámpara*al lado de*la mesa

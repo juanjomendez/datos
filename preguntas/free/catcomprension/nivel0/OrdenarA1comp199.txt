@@ -1,0 +1,3 @@
+Ordenar
+Hay muchas fotos en este periódico
+Hay*muchas fotos*en este periódico

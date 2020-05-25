@@ -1,0 +1,3 @@
+Ordenar
+Los estudiantes pueden ir a la excursión mañana
+Los estudiantes*pueden*ir*a la excursión*mañana

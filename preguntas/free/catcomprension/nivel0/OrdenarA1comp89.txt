@@ -1,0 +1,3 @@
+Ordenar
+Tengo experiencia en el departamento de Marketing
+Tengo*experiencia*en el departamento*de Marketing

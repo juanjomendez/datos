@@ -1,0 +1,3 @@
+Ordenar
+Tengo que comprar un ordenador portátil para estudiar
+Tengo que*comprar*un ordenador portátil*para estudiar

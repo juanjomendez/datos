@@ -1,0 +1,15 @@
+OrdenarA1comp00.txt,OrdenarA1comp01.txt
+multipleA2gram00.txt
+pregunta1_22.txt
+pregunta1_10.txt
+pregunta1_11.txt
+pregunta1_12.txt
+MultipleA1gram01.txt
+multipleA2gram00.txt
+pregunta1_32.txt
+pregunta1_00.txt
+pregunta1_01.txt
+pregunta1_02.txt
+pregunta1_40.txt
+pregunta1_41.txt
+pregunta1_42.txt

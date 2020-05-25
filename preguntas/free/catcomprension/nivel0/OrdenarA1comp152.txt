@@ -1,0 +1,3 @@
+Ordenar
+Nosotros no tenemos sandalias para la playa
+Nosotros*no*tenemos*sandalias*para la playa

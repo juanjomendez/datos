@@ -1,0 +1,3 @@
+Ordenar
+Voy al trabajo en metro y autobús
+Voy*al trabajo*en metro*y autobús

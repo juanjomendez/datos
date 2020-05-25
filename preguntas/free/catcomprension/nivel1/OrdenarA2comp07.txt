@@ -1,0 +1,3 @@
+Ordenar
+Cuando era pequeña,estudiaba en mi escuela
+Cuando*era*pequeña,*estudiaba*en*mi*escuela

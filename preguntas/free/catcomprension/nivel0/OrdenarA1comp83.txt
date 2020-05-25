@@ -1,0 +1,3 @@
+Ordenar
+El director de la empresa es muy amable y simpático
+El director de la empresa*es*muy amable*y*simpático

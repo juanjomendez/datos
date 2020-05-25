@@ -1,0 +1,3 @@
+Ordenar
+El alquiler es 600 euros al mes
+El alquiler*es*600 euros*al mes

@@ -1,0 +1,5 @@
+Imagen
+¿Qué prenda de ropa es?
+vaqueros.png
+Respuesta
+unos pantalones vaqueros

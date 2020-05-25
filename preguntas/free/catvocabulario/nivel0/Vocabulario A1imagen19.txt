@@ -1,0 +1,5 @@
+Imagen
+¿Qué acción es?
+comer.png
+Respuesta
+comer

@@ -1,0 +1,9 @@
+Multiple
+¿Te gusta la comida mexicana?
+
+sí, gusto mucho
+sí, me encanta
+sí, gusta mucho
+
+Respuesta
+sí, me encanta

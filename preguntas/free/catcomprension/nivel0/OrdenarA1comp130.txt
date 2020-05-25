@@ -1,0 +1,3 @@
+Ordenar
+La fotocopiadora está al lado de la mesa
+La fotocopiadora*está*al lado de*la mesa
