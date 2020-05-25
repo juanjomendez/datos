@@ -2,4 +2,4 @@ Imagen
 ¿Qué tipo de cama es?
 litera.png
 Respuesta
-una litera
+litera

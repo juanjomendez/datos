@@ -1,0 +1,9 @@
+Multiple
+¿Cuál es la opción correcta? 
+
+Cuando sabes el nombre del restaurante,llámame.
+Cuando sepas el nombre del restaurante,llámame.
+Cuando sabrás el nombre del restaurante,llámame.
+
+Respuesta
+Cuando sepas el nombre del restaurante,llámame.

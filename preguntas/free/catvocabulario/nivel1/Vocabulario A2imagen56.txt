@@ -2,4 +2,4 @@ Imagen
 ¿Qué tienen?
 reunion.png
 Respuesta
-una reunión
+reunión

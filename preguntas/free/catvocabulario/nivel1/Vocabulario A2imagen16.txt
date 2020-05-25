@@ -2,4 +2,4 @@ Imagen
 ¿Dónde tiene la mano?
 cabeza.png
 Respuesta
-en la cabeza
+cabeza

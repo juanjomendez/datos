@@ -3,4 +3,4 @@ Imagen
 ¿Qué está mirando?
 mapacarretera.png
 Respuesta
-un mapa de carreteras
+mapa de carreteras

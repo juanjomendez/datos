@@ -2,4 +2,4 @@ Imagen
 ¿Qué es?
 plato.png
 Respuesta
-un plato
+plato

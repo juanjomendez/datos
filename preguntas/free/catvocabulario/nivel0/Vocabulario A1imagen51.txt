@@ -2,4 +2,4 @@ Imagen
 ¿Qué ves en la imagen?
 ojos.png
 Respuesta
-unos ojos
+ojos

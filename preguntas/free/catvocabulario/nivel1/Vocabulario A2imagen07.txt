@@ -1,5 +1,5 @@
 Imagen
-¿Qué es?
-osito.png
+¿Qué lleva puesto?
+bufanda.png
 Respuesta
-un osito
+bufanda

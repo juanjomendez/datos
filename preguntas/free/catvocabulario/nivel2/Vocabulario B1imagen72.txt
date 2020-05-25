@@ -2,4 +2,4 @@ Imagen
 ¿Qué tiene levantados?
 brazos.png
 Respuesta
-los brazos
+brazos

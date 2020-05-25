@@ -1,9 +1,9 @@
 Multiple
-¿Cuál es la profesión de Antonio Banderas?
+¿Cuál es la profesión de Penélope Cruz?
 
-bombero
-arquitecto
-actor
+bombera
+secretaria
+actriz
 
 Respuesta
-actor
+actriz

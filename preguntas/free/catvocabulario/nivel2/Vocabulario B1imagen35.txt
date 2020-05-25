@@ -2,4 +2,4 @@ Imagen
 ¿Dónde está el mecánico?
 taller.png
 Respuesta
-en el taller
+taller

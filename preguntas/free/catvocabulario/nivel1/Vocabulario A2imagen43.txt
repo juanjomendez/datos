@@ -2,4 +2,4 @@ Imagen
 ¿Qué ves en la imagen?
 fotocopiadora.png
 Respuesta
-una fotocopiadora
+fotocopiadora

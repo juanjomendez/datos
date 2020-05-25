@@ -1,5 +1,6 @@
+
 Imagen
-Que ves en la imagen ?
+¿Cómo se llama en español?
 virus.png
 Respuesta
-un virus
+virus

@@ -2,4 +2,4 @@ Imagen
 ¿Qué lleva puesto la chica?
 blusa.png
 Respuesta
-una blusa
+blusa

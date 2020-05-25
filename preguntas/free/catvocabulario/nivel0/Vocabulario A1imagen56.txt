@@ -2,4 +2,4 @@ Imagen
 ¿Qué prenda de ropa es?
 camisa.png
 Respuesta
-una camisa
+camisa

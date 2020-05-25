@@ -3,4 +3,4 @@ Imagen
 ¿Qué hay en el centro de la imagen?
 portatil.png
 Respuesta
-un ordenador portátil
+portátil

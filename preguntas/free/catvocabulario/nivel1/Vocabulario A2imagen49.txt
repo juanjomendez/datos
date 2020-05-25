@@ -2,4 +2,4 @@ Imagen
 ¿Qué ves en la imagen?
 estatua.png
 Respuesta
-una estatua
+estatua

@@ -1,9 +1,9 @@
 Multiple
-Selecciona la respuesta correcta. A mí _______ los perros.
+¿Cuál es tu profesión?.....secretaria
 
-me gustan
-me gusta
-se gusta
+trabajo
+es
+soy
 
 Respuesta
-me gustan
+soy

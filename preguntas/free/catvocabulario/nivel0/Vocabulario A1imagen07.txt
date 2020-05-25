@@ -2,4 +2,4 @@ Imagen
 ¿Qué animal es?
 leon.png
 Respuesta
-Un león
+león

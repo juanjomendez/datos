@@ -1,9 +1,9 @@
 Multiple
 ¿Cuál es el baile típico de Madrid?
 
-El chotis
-La sardana
-La muñeira
+el chotis
+la sardana
+la muñeira
 
 Respuesta
-El chotis
+el chotis

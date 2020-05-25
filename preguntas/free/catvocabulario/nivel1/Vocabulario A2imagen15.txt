@@ -1,5 +1,5 @@
 Imagen
-¿Qué está tatuando?
+¿Qué tatua?
 brazo.png
 Respuesta
-un brazo
+brazo

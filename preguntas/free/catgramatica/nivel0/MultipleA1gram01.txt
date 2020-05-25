@@ -1,9 +1,9 @@
 Multiple
-¿Indica el infinitivo? Vivo
+¿Y usted de dónde .............. ?
 
-Vivar
-Viver
-Vivir
+eres
+es
+son
 
 Respuesta
-Vivir
+es

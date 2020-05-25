@@ -3,4 +3,4 @@ Imagen
 ¿Qué tiene en la mano?
 cartas.png
 Respuesta
-unas cartas
+cartas

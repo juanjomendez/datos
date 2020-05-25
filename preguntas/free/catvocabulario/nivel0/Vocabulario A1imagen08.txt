@@ -2,4 +2,4 @@ Imagen
 ¿Qué animal es?
 patito.png
 Respuesta
-Un patito
+patito

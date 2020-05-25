@@ -2,4 +2,4 @@ Imagen
 ¿Dónde están los maniquíes?
 escaparate.png
 Respuesta
-en el escaparate
+escaparate

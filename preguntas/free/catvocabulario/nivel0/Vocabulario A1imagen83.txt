@@ -1,5 +1,5 @@
 Imagen
 ¿Qué mueble es?
-estanteria.png
+estantería.png
 Respuesta
-una estantería
+estantería

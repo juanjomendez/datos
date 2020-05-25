@@ -2,4 +2,4 @@ Imagen
 ¿Qué fruta es?
 uvas.png
 Respuesta
-uvas
+uva

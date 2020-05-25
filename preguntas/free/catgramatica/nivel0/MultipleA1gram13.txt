@@ -1,9 +1,9 @@
 Multiple
-Selecciona la respuesta correcta. ¿Dónde ________ ahora?
+Me ......correr en el parque
 
-eres
-estás
-las dos son correctas
+gustas
+gustan
+gusta
 
 Respuesta
-estás
+gusta

@@ -1,9 +1,9 @@
 Multiple
 ¿Dónde se solicita el empadronamiento?
 
-Ayuntamiento
-Embajada
-Consulado
+ayuntamiento
+embajada
+consulado
 
 Respuesta
-Ayuntamiento
+ayuntamiento

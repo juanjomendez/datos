@@ -2,4 +2,4 @@ Imagen
 ¿Qué ves en la imagen?
 comoda.png
 Respuesta
-una cómoda
+cómoda

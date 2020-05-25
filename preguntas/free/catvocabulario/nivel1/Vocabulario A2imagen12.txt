@@ -1,5 +1,5 @@
 Imagen
 ¿Qué es?
-lata liquido.png
+lata.png
 Respuesta
-una lata
+lata

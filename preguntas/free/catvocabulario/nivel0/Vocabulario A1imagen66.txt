@@ -2,4 +2,4 @@ Imagen
 ¿Qué prenda de ropa es?
 pantalones.png
 Respuesta
-unos pantalones
+pantalones

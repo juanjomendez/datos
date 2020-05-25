@@ -2,4 +2,4 @@ Imagen
 ¿Qué edificio es?
 escuela.png
 Respuesta
-una escuela
+escuela

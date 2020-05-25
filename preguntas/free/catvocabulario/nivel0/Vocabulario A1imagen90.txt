@@ -2,4 +2,4 @@ Imagen
 ¿Qué parte de la casa es?
 salon.png
 Respuesta
-el salón
+salón

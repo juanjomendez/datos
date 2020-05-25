@@ -2,4 +2,4 @@ Imagen
 ¿Qué ves en la imagen?
 agenda.png
 Respuesta
-una agenda
+agenda

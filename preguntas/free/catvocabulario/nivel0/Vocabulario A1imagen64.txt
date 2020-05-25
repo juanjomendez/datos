@@ -2,4 +2,4 @@ Imagen
 ¿Qué prenda de ropa es?
 gorro.png
 Respuesta
-un gorro
+gorro

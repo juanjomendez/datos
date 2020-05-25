@@ -1,9 +1,9 @@
 Multiple
 El horario de Canarias, con respecto a la Península, tiene…
 
-Una hora más
-Una hora menos
-Misma hora
+una hora más
+una hora menos
+misma hora
 
 Respuesta
-Una hora menos
+una hora menos

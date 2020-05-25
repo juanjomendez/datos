@@ -3,4 +3,4 @@ Imagen
 ¿Qué hay al lado del pasaporte?
 billeteavion.png
 Respuesta
-un billete de avión
+billete de avión

@@ -2,4 +2,4 @@ Imagen
 ¿Dónde está colgada la lámpara?
 techo.png
 Respuesta
-en el techo
+techo

@@ -1,0 +1,9 @@
+Multiple
+Soy aficionado del Real Madrid.
+
+No me gusta el Real Madrid.
+Soy admirador del Real Madrid.
+Ninguna es correcta.
+
+Respuesta
+Soy admirador del Real Madrid.

@@ -1,9 +1,9 @@
 Multiple
-Selecciona la respuesta correcta. Yo soy _______.
+Somos extranjeras y ......español
 
-japonés
-japoneso
-Japón
+trabajamos
+somos
+estudiamos
 
 Respuesta
-japonés
+estudiamos

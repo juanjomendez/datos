@@ -1,9 +1,9 @@
 Multiple
-Selecciona la respuesta correcta. Tú _______ treinta años.
+Mi hermano ......diseñador
 
-tienes
-eres
-estás
+es
+soy
+trabaja
 
 Respuesta
-tienes
+es

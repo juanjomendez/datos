@@ -3,4 +3,4 @@ Imagen
 ¿Qué acción es?
 mensaje.png
 Respuesta
-enviar mensajes
+enviar un mensaje

@@ -1,6 +1,6 @@
 
 Imagen
 ¿Qué ves en la imagen?
-escalera.png
+escaleras.png
 Respuesta
-una escalera
+escaleras

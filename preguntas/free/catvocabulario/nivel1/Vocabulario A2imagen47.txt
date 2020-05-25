@@ -2,4 +2,4 @@ Imagen
 ¿Dónde están las personas?
 concierto.png
 Respuesta
-en un concierto
+concierto

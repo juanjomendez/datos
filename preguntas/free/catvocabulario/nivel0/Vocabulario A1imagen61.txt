@@ -2,4 +2,4 @@ Imagen
 ¿Qué ves en la imagen?
 gafas.png
 Respuesta
-unas gafas
+gafas

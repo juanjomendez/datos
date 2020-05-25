@@ -1,9 +1,9 @@
 Multiple
 ¿Qué comida típica española tiene como principal ingrediente el tomate?
 
-Paella
-Cocido
-Gazpacho
+paella
+cocido
+gazpacho
 
 Respuesta
-Gazpacho
+gazpacho

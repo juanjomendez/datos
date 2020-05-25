@@ -1,6 +1,6 @@
 
 Imagen
 ¿Cuál es su profesión?
-farmaceutica.png
+farmacéutica.png
 Respuesta
 farmacéutica
