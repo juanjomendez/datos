@@ -1,3 +1,0 @@
-Ordenar
-El hotel no tiene aire acondicionado
-El hotel*no*tiene*aire acondicionado

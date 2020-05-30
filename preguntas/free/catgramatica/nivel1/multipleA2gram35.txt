@@ -1,9 +1,0 @@
-Multiple
-¿Cuál es la respuesta correcta?
-
-Por favor, ¿para ir a la estación?
-Por favor, ¿para ir de la estación?
-Por favor, ¿para ir en la estación?
-
-Respuesta
-Por favor, ¿para ir a la estación?

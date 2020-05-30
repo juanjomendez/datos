@@ -1,3 +1,0 @@
-Ordenar
-Manuel es contable y Paqui es peluquera
-Manuel*es*contable*y*Paqui*es*peluquera

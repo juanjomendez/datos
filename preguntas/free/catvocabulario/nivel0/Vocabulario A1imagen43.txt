@@ -1,5 +1,0 @@
-Imagen
-¿Qué fruta es?
-tomate.png
-Respuesta
-tomate

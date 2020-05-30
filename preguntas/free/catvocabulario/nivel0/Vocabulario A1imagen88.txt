@@ -1,5 +1,0 @@
-Imagen
-¿Qué electrodoméstico es?
-microondas.png
-Respuesta
-microondas

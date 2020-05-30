@@ -1,3 +1,0 @@
-Ordenar
-El restaurante abre a las 7 de la tarde y cierra a las 11 de la noche
-El restaurante*abre*a las 7 de la tarde*y*cierra*a las 11 de la noche

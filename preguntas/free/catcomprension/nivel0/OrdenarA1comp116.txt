@@ -1,3 +1,0 @@
-Ordenar
-Mi oficina está a la izquierda
-Mi oficina*está*a la izquierda

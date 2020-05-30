@@ -1,3 +1,0 @@
-Ordenar
-La farmacia está allí
-La farmacia*está*allí

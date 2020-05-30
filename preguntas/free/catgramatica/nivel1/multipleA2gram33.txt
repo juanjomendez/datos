@@ -1,9 +1,0 @@
-Multiple
-¿Cuál es la respuesta correcta?
-
-Fuimos en Córdoba hace un año porque estaba cerca de Granada.
-Fuimos a Córdoba hace un año porque estaba cerca de Granada.
-Fuimos de Córdoba hace un año porque estaba cerca de Granada.
-
-Respuesta
-Fuimos a Córdoba hace un año porque estaba cerca de Granada.

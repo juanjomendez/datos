@@ -1,5 +1,0 @@
-Imagen
-¿Cuál es su profesión?
-carpintero.png
-Respuesta
-carpintero

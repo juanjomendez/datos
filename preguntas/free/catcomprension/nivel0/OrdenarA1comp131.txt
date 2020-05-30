@@ -1,3 +1,0 @@
-Ordenar
-Mi oficina está en el primer piso
-Mi oficina*está*en el primer piso

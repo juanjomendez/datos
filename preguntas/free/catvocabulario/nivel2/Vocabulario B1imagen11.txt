@@ -1,5 +1,0 @@
-Imagen
-¿Qué tipo de dormitorio es?
-dormitoriomatrimonio.png
-Respuesta
-dormitorio de matrimonio

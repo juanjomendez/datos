@@ -1,5 +1,0 @@
-Imagen
-¿Qué tipo de zapato es?
-taconalto.png
-Respuesta
-tacón alto

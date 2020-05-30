@@ -1,5 +1,0 @@
-Imagen
-¿Qué bebida es?
-zumo.png
-Respuesta
-zumo

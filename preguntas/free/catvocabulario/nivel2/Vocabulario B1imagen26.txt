@@ -1,5 +1,0 @@
-Imagen
-¿Cuál es su profesión?
-albañil.png
-Respuesta
-albañil

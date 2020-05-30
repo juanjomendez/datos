@@ -1,5 +1,0 @@
-Imagen
-¿Qué acción es?
-pagartarjeta.png
-Respuesta
-pagar con tarjeta

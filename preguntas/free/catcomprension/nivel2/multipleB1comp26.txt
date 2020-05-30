@@ -1,9 +1,0 @@
-Multiple
-Tu gimnasio con monitores especializados abre todos los días laborables.
-
-Abren todos los días incluso los festivos.
-Solo abren los días festivos.
-Abren todos los días que no son festivos.
-
-Respuesta
-Abren todos los días que no son festivos.

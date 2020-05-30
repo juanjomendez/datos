@@ -1,3 +1,0 @@
-Ordenar
-El precio del avión a Australia es muy caro
-El precio*del avión*a Australia*es*muy caro

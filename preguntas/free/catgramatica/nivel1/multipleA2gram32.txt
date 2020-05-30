@@ -1,9 +1,0 @@
-Multiple
-¿Cuál es la respuesta correcta?
-
-Estudio español por mi trabajo.
-Estudio español porque mi trabajo.
-Estudio español por qué mi trabajo.
-
-Respuesta
-Estudio español por mi trabajo.

@@ -1,5 +1,0 @@
-Imagen
-¿Qué plato ves en la imagen?
-ensalada.png
-Respuesta
-ensalada

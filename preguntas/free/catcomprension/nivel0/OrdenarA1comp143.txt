@@ -1,3 +1,0 @@
-Ordenar
-Reserva una habitación en ese hotel
-Reserva*una habitación*en ese hotel

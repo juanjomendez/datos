@@ -1,3 +1,0 @@
-Ordenar
-Puedo comprar un vestido rojo en la tienda de ropa
-Puedo*comprar*un vestido rojo*en la tienda de ropa

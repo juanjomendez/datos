@@ -1,9 +1,0 @@
-Multiple
-A partir de hoy la entrada a la piscina cuesta 5 euros y no 4.50 euros.
-
-La entrada es más barata.
-La entrada es más cara.
-La entrada tiene un descuento.
-
-Respuesta
-La entrada es más cara.

@@ -1,5 +1,0 @@
-Imagen
-¿Qué verdura es?
-patata.png
-Respuesta
-patata

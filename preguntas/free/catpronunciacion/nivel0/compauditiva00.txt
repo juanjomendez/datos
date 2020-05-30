@@ -1,9 +1,0 @@
-Audio1
-comida.mp3
-¿qué dice?
-corona
-colina
-comida
-
-Respuesta
-comida

@@ -1,5 +1,0 @@
-Imagen
-¿Qué llevan puesto en los pies?
-sandalias.png
-Respuesta
-sandalias

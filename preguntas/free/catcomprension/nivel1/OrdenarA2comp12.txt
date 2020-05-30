@@ -1,3 +1,0 @@
-Ordenar
-el billete me costó 3 euros
-el billete*me*costó*3 euros

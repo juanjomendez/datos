@@ -1,5 +1,0 @@
-Imagen
-¿Qué verdura es?
-lechuga.png
-Respuesta
-lechuga

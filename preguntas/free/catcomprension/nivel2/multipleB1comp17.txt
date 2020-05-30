@@ -1,9 +1,0 @@
-Multiple
-Chollovacaciones.es. Si enuentra un precio más económico le reembolamos la diferencia.
-
-Si encontramos un precio más barato, el viaje es gratis.
-Si encontramos un precio más barato,tenemos un descuento.
-Si encontramos un precio más barato,nos devuelve la diferencia.
-
-Respuesta
-Si encontramos un precio más barato,nos devuelve la diferencia.

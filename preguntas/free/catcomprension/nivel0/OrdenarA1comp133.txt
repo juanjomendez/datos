@@ -1,3 +1,0 @@
-Ordenar
-Nuestro barrio está muy bien comunicado
-Nuestro barrio*está*muy bien comunicado
