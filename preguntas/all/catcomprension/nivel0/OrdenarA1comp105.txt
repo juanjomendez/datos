@@ -1,3 +1,0 @@
-Ordenar
-Hay una catedral y una iglesia en este pueblo
-Hay*una catedral*y*una iglesia*en este pueblo

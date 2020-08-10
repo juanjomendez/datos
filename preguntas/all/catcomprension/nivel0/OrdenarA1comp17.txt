@@ -1,3 +1,0 @@
-Ordenar
-Los hijos de Sara son muy guapos
-Los*hijos*de Sara*son*muy guapos

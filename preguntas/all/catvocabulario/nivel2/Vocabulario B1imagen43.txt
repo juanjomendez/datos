@@ -1,5 +1,0 @@
-Imagen
-¿Qué material es?
-lana.png
-Respuesta
-lana

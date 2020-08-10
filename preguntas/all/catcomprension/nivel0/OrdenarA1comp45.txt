@@ -1,3 +1,0 @@
-Ordenar
-Ese edificio tiene diez pisos
-Ese edificio*tiene*diez*pisos

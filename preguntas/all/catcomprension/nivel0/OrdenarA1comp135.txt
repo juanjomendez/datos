@@ -1,3 +1,0 @@
-Ordenar
-Mi barrio está en el sur de la ciudad
-Mi barrio*está*en el sur*de la ciudad

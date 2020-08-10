@@ -1,3 +1,0 @@
-Ordenar
-La silla está debajo de la mesa
-La silla*está*debajo de*la mesa

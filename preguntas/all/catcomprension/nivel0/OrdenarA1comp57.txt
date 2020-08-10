@@ -1,3 +1,0 @@
-Ordenar
-Aquel edificio no es tan moderno como este
-Aquel edificio*no*es*tanmoderno*como*este

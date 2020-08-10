@@ -1,3 +1,0 @@
-Ordenar
-Particular vende piso en Barcelona
-Particular*vende*piso*en Barcelona

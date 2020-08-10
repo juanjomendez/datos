@@ -1,9 +1,0 @@
-Multiple
-Vi el clásico Real Madrid Barcelona y empataron.
-
-El Barcelona ganó el partido.
-El Real Madrid ganó el partido.
-Los dos tuvieron la misma puntuación.
-
-Respuesta
-Los dos tuvieron la misma puntuación.

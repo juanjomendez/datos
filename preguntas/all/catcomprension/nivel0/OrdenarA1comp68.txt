@@ -1,3 +1,0 @@
-Ordenar
-Vivo en el tercer piso y mi amiga vive en el primero
-Vivo*en el tercer piso*y*mi amiga*vive*en el primero

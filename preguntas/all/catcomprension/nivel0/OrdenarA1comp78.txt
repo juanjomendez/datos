@@ -1,3 +1,0 @@
-Ordenar
-Voy a una comida de trabajo hoy
-Voy a*una comida*de trabajo*hoy

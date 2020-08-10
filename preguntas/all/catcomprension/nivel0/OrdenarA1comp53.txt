@@ -1,3 +1,0 @@
-Ordenar
-El apartamento tiene calefacción, mucha luz y está bien comunicado
-El apartamento*tiene*calefacción,*mucha luz*y*está bien comunicado

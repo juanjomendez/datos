@@ -1,5 +1,0 @@
-Imagen
-¿Qué bebida es?
-agua.png
-Respuesta
-agua

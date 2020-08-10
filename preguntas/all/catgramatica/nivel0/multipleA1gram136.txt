@@ -1,9 +1,0 @@
-Multiple
-¿Dónde compras la camiseta?
-
-Lo compro en la tienda de ropa.
-La compro en la tienda de ropa.
-Las compro en la tienda de ropa.
-
-Respuesta
-La compro en la tienda de ropa.

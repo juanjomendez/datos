@@ -1,5 +1,0 @@
-Imagen
-¿Qué plato es?
-tortilla.png
-Respuesta
-tortilla

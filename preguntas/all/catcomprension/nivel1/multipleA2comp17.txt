@@ -1,9 +1,0 @@
-Multiple
-El campeonato de baloncesto para jóvenes de 18 a 22 años va a ser a las 11:00h y no a las 12:00h.
-
-El campeonato ha cambiado de lugar.
-Han cancelado el campeonato.
-Han cambiado el horario del campeonato.
-
-Respuesta
-Han cambiado el horario del campeonato.

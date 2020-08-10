@@ -1,5 +1,0 @@
-Imagen
-¿Qué fruta es?
-naranja.png
-Respuesta
-naranja

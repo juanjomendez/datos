@@ -1,3 +1,0 @@
-Ordenar
-El baño está al final del pasillo
-El baño*está*al final*del pasillo

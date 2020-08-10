@@ -1,3 +1,0 @@
-Ordenar
-El centro comercial está en el centro de la ciudad
-El centro comercial*está*en el centro de*la ciudad

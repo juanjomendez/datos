@@ -1,9 +1,0 @@
-Multiple
-Prefiero las películas en versión original.
-
-Quiere ver la película en el idioma original.
-Quiere ver la película doblada al español.
-Quiere ver una película de estreno.
-
-Respuesta
-Quiere ver la película en el idioma original.

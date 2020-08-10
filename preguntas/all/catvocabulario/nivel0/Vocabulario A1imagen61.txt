@@ -1,5 +1,0 @@
-Imagen
-¿Qué ves en la imagen?
-gafas.png
-Respuesta
-gafas

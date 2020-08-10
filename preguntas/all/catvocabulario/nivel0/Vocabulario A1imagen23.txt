@@ -1,5 +1,0 @@
-Imagen
-¿Qué comida es?
-hamburguesa.png
-Respuesta
-hamburguesa

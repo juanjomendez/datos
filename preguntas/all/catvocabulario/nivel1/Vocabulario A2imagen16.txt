@@ -1,5 +1,0 @@
-Imagen
-¿Dónde tiene la mano?
-cabeza.png
-Respuesta
-cabeza

@@ -1,5 +1,0 @@
-Imagen
-¿Cómo está?
-triste.png
-Respuesta
-triste

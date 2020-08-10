@@ -1,9 +1,0 @@
-Multiple
-Quiero.....un habitación doble para dos personas.
-
-reservar
-comprar
-vender
-
-Respuesta
-reservar

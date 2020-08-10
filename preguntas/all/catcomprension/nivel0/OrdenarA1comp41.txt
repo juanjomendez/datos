@@ -1,3 +1,0 @@
-Ordenar
-Mi casa tiene tres dormitorios, un baño, una cocina y un jardín.
-Mi casa*tiene*tres dormitorios,*un baño,*una cocina*y un jardín.

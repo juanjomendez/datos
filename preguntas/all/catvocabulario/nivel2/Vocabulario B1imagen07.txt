@@ -1,6 +1,5 @@
-
-Imagen
+﻿Imagen
 ¿Qué ves en la imagen?
-escaleras.png
+escalera.png
 Respuesta
 escaleras

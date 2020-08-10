@@ -1,3 +1,0 @@
-Ordenar
-El banco está al lado de la estación
-El banco*está*al lado de*la estación
