@@ -1,5 +1,0 @@
-Imagen
-¿Qué acción es?
-ircompras.png
-Respuesta
-ir de compras

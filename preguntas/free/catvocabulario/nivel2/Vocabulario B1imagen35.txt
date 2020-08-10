@@ -1,5 +1,0 @@
-Imagen
-¿Dónde está el mecánico?
-taller.png
-Respuesta
-taller

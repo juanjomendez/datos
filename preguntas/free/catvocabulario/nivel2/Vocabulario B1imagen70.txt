@@ -1,5 +1,0 @@
-Imagen
-¿Cómo se llaman?
-monedas.png
-Respuesta
-monedas

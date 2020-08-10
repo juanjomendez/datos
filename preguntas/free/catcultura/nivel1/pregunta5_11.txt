@@ -1,5 +1,0 @@
-Imagen
-Como se llama lo que se ve en la imagen?
-manzana.png
-Respuesta
-Manzana

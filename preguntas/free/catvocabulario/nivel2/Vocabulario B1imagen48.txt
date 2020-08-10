@@ -1,5 +1,0 @@
-Imagen
-¿Qué lleva puesto la chica?
-blusa.png
-Respuesta
-blusa

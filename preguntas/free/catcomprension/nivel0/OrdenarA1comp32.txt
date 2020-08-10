@@ -1,3 +1,0 @@
-Ordenar
-¿Quieres venir a cenar a casa?
-¿Quieres*venir a cenar*a casa?

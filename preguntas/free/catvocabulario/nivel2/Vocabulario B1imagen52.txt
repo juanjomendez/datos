@@ -1,5 +1,0 @@
-Imagen
-¿Qué hay al lado de las botas?
-calcetines.png
-Respuesta
-calcetines

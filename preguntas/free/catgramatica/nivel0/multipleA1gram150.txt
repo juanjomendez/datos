@@ -1,9 +1,0 @@
-Multiple
-El tren.....de Salamanca a las 7:30 y .... a Madrid a las 9:30.
-
-abre/ cierra
-llega/ sale
-sale/ llega
-
-Respuesta
-sale/ llega

@@ -1,5 +1,0 @@
-Imagen
-¿Qué electrodoméstico es?
-lavadora.png
-Respuesta
-lavadora

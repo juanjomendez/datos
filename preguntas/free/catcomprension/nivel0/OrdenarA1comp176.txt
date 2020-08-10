@@ -1,3 +1,0 @@
-Ordenar
-La película que queremos ver es a las diez
-La película*que queremos ver*es*a las diez

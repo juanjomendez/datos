@@ -1,3 +1,0 @@
-Ordenar
-La tienda está muy lejos de mi casa
-La tienda*está*muy lejos de*mi casa

@@ -1,6 +1,0 @@
-
-Imagen
-¿Qué ves en la imagen?
-maleta.png
-Respuesta
-maleta

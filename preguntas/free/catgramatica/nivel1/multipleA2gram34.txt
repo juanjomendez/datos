@@ -1,9 +1,0 @@
-Multiple
-¿Cuál es la respuesta correcta?
-
-Visitamos la catedral y el castillo a la ciudad.
-Visitamos la catedral y el castillo de la ciudad.
-Visitamos la catedral y el castillo en la ciudad.
-
-Respuesta
-Visitamos la catedral y el castillo de la ciudad.

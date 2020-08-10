@@ -1,6 +1,0 @@
-
-Imagen
-¿Qué tiempo hace?
-nevar.png
-Respuesta
-está nevando

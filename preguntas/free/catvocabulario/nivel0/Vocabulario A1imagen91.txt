@@ -1,5 +1,0 @@
-Imagen
-¿Qué mueble es?
-silla.png
-Respuesta
-silla

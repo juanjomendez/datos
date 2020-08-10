@@ -1,5 +1,0 @@
-Imagen
-¿Qué mueble es?
-sofa.png
-Respuesta
-sofá

@@ -1,8 +1,8 @@
-Audio
+﻿Audio
 estudioespanol.mp3
 ¿Por qué estudia español?
 Porque quiere ir a Colombia
 Porque su novia es colombiana
 
 Respuesta
-Porque quiere ir a Colombia
+Porque su novia es colombiana

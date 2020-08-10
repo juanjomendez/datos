@@ -1,6 +1,0 @@
-
-Imagen
-¿Qué acción es?
-mensaje.png
-Respuesta
-enviar un mensaje

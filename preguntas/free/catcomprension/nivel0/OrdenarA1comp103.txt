@@ -1,3 +1,0 @@
-Ordenar
-Los turistas que visitan Barcelona, son ingleses
-Los turistas*que*visitan Barcelona,*son*ingleses

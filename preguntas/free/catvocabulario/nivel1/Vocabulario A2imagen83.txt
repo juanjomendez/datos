@@ -1,5 +1,0 @@
-Imagen
-¿Qué parte de la casa es?
-comedor.png
-Respuesta
-comedor

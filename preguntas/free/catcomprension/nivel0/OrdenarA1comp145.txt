@@ -1,3 +1,0 @@
-Ordenar
-El precio de la habitación doble es 50 euros
-El precio*de la habitación doble*es*50 euros

@@ -1,5 +1,0 @@
-Imagen
-¿Qué le duele?
-codo.png
-Respuesta
-codo

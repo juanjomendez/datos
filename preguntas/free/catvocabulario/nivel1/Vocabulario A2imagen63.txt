@@ -1,6 +1,0 @@
-
-Imagen
-¿Qué tiene en la mano?
-cartas.png
-Respuesta
-cartas

@@ -1,4 +1,4 @@
-Multiple
+﻿Multiple
 ¿Cuál es la opción correcta? 
 
 Hice un viaje por Asia en 2.015.
@@ -6,4 +6,4 @@ He hecho un viaje por Asia en 2.015.
 Las dos son correctas
 
 Respuesta
-Hice un viaje por Asia en 2.015
+Hice un viaje por Asia en 2.015.

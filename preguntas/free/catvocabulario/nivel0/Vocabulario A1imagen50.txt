@@ -1,5 +1,0 @@
-Imagen
-¿Qué ves en la imagen?
-bigote.png
-Respuesta
-bigote

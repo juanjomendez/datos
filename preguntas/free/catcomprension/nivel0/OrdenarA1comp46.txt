@@ -1,3 +1,0 @@
-Ordenar
-Hay una televisión encima de la mesa
-Hay*una televisión*encima*de*la mesa

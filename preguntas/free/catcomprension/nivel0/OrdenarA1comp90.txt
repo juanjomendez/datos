@@ -1,3 +1,0 @@
-Ordenar
-Soy profesor de español y mi amiga es profesora de japonés
-Soy*profesor de español*y*mi amiga*es*profesora de japonés

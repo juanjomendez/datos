@@ -1,5 +1,0 @@
-Imagen
-¿Qué prenda de ropa es?
-bufanda.png
-Respuesta
-bufanda

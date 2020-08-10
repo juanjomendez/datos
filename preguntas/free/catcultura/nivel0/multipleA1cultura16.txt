@@ -1,9 +1,0 @@
-Multiple
-¿Cual de estos bailes es español? 
-
-Flamenco
-Tango
-Bachata
-
-Respuesta
-Flamenco
