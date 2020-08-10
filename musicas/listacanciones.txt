@@ -20,3 +20,5 @@ chotis,AquiNoHayPlaya
 Espanadeputamadre,Paquitoelchocolatero
 -21.29,3.07,1.2,5.58,Ibiza
 bensound-dreams,bensound-summer
+5.4,-28.66,1.2,5.58,Bilbao
+MuchapoliciaPocaDiversion
