@@ -1,9 +1,9 @@
 18.1,20.2,1.2,5.58,Granada
 albenizranada,elpanomoruno,Guitarraycajon,Sabicasfantasia
 16.5,-31.5,1.2,5.58,Asturias
-albenizasturias,asturiana
+albenizasturias,asturiana,Asturiaspatriaquerida
 -24.2,-17.5,1.2,5.58,Cataluna
-albenizcataluna,Rumba1
+albenizcataluna,Rumba1,Cadillacsolitario
 -0.1,-17,1.2,5.58,Aragon
 albenizaragon,jota
 17.6,-13.1,1.2,5.58,Castilla
@@ -11,11 +11,11 @@ albenizcastillas,cancion,polo
 -4.5,15.1,1.2,5.58,Murcia
 seguidillamurciana
 29.7,19.1,1.2,5.58,Sevilla
-albenizsevilla,nana,albenizcadiz,Pacodelucia
+albenizsevilla,nana,albenizcadiz,Pacodelucia,SevillaTieneUnColorEspecial
 38.15,-26.56,1.2,5.58,Galicia
-muneira1,muneira2
+muneira1,muneira2,FAIUNSOLDECARALLO
 10.73,1.17,1.2,5.58,Madrid
-chotis
+chotis,AquiNoHayPlaya
 -7.3,3.07,1.2,5.58,Valencia
 Espanadeputamadre,Paquitoelchocolatero
 -21.29,3.07,1.2,5.58,Ibiza
