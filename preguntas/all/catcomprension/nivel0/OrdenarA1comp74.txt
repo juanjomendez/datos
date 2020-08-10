@@ -1,0 +1,3 @@
+Ordenar
+Tienes que ir a la biblioteca y estudiar para aprobar el examen
+Tienes que ir*a la biblioteca*y*estudiar*para aprobar*el examen

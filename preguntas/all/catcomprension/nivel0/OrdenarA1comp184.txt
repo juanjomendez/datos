@@ -1,0 +1,3 @@
+Ordenar
+En mi pueblo no hay conexión a internet
+En mi pueblo*no*ha* conexión a*internet

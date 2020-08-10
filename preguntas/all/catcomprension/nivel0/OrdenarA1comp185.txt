@@ -1,0 +1,3 @@
+Ordenar
+Mi padre compra el periódico todos los domingos
+Mi padre*compra*el periódico*todos los domingos

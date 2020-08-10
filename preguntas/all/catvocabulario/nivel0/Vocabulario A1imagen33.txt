@@ -1,0 +1,5 @@
+Imagen
+¿Qué ves en la imagen?
+pescado.png
+Respuesta
+pescado

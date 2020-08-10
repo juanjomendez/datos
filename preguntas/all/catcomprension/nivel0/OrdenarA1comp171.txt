@@ -1,0 +1,3 @@
+Ordenar
+Jugáis al fútbol los martes por la tarde
+Jugáis*al fútbol*los martes*por la tarde

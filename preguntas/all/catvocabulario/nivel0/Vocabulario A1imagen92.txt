@@ -1,0 +1,5 @@
+Imagen
+¿Qué mueble es?
+sillon.png
+Respuesta
+sillón

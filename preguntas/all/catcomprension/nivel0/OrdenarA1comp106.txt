@@ -1,0 +1,3 @@
+Ordenar
+Hay muchas casas antiguas y edificios modernos
+Hay*muchas*casas antiguas*y*edificios modernos

@@ -1,0 +1,5 @@
+Imagen
+¿Cuál es su profesión?
+fontanero.png
+Respuesta
+fontanero

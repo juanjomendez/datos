@@ -1,0 +1,3 @@
+Ordenar
+Tengo que comprar un secador de pelo y un cepillo
+Tengo que*comprar*un secador de pelo*y*un cepillo

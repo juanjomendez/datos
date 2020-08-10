@@ -1,0 +1,5 @@
+Imagen
+¿Qué animal es?
+gato.png
+Respuesta
+gato

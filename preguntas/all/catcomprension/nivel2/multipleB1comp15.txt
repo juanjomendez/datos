@@ -1,0 +1,9 @@
+Multiple
+Me quedado sin saldo en el móvil.
+
+El móvil está apagado.
+El móvil no puede recibir llamadas.
+El usuario no tiene dinero en el móvil.
+
+Respuesta
+El usuario no tiene dinero en el móvil.

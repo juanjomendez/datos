@@ -1,0 +1,5 @@
+Imagen
+¿Qué tienda es?
+carnicería.png
+Respuesta
+carnicería

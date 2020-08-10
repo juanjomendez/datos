@@ -1,0 +1,5 @@
+Imagen
+¿Qué lleva puesto?
+camiseta.png
+Respuesta
+camiseta

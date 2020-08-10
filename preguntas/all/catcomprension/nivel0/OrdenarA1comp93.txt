@@ -1,0 +1,3 @@
+Ordenar
+Tengo estudios de informática
+Tengo*estudios*de informática

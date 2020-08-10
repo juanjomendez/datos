@@ -1,0 +1,6 @@
+
+Imagen
+¿Qué tiempo hace?
+viento.png
+Respuesta
+hace viento

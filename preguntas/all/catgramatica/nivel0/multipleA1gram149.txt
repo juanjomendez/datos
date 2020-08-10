@@ -1,0 +1,9 @@
+Multiple
+¿A qué hora vas a la escuela?
+
+Voy a las 8 de la mañana.
+No vamos a la escuela.
+Vengo a las 8 de la mañana.
+
+Respuesta
+Voy a las 8 de la mañana.

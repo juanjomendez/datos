@@ -1,0 +1,3 @@
+Ordenar
+Ayer comí dos pizzas
+Ayer*comí*dos*pizzas

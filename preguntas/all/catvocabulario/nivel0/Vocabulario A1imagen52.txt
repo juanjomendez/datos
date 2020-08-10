@@ -1,0 +1,5 @@
+Imagen
+¿Qué ves en la imagen?
+pelo.png
+Respuesta
+pelo

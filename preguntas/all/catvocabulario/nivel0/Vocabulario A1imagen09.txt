@@ -1,0 +1,5 @@
+Imagen
+¿Qué animal es?
+pato.png
+Respuesta
+pato

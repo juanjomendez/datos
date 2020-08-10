@@ -1,0 +1,5 @@
+Imagen
+¿Qué prenda de ropa es?
+falda.png
+Respuesta
+falda

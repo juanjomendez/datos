@@ -1,0 +1,5 @@
+Imagen
+¿Qué ves en la imagen?
+cepillo de dientes.png
+Respuesta
+cepillo de dientes

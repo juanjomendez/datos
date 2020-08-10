@@ -1,0 +1,5 @@
+Imagen
+¿Qué parte de la casa es?
+baño.png
+Respuesta
+baño

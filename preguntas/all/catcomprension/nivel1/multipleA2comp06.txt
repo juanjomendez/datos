@@ -1,0 +1,9 @@
+Multiple
+Restaurante de comida vegetariana y ecológica.
+
+Se puede comer carne.
+Se puede comer de todo.
+Solo se puede comer verdura.
+
+Respuesta
+Solo se puede comer verdura.

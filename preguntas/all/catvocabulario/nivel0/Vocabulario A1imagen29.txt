@@ -1,0 +1,5 @@
+Imagen
+¿Qué plato es?
+paella.png
+Respuesta
+lechuga

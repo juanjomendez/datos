@@ -1,0 +1,3 @@
+Ordenar
+Voy al gimnasio los lunes y los miércoles
+Voy al*gimnasio*los lunes*y*los miércoles

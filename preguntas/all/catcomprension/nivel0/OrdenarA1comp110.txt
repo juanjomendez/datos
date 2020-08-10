@@ -1,0 +1,3 @@
+Ordenar
+El banco no está al lado de la estación
+El banco *no* *está*al lado de*la estación
