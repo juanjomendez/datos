@@ -1,0 +1,5 @@
+Imagen
+¿Qué animal es?
+gallina.png
+Respuesta
+gallina

@@ -1,0 +1,5 @@
+Imagen
+¿Qué fruta es?
+melocoton.png
+Respuesta
+melocotón

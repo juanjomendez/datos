@@ -1,0 +1,9 @@
+Multiple
+La fotocopiadora está fuera de servicio. 
+
+La fotocopiadora es nueva.
+La fotocopiadora está rota.
+Ninguna de las dos es correcta.
+
+Respuesta
+La fotocopiadora está rota.

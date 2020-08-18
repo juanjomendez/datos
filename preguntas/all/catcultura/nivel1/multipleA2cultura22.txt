@@ -1,0 +1,9 @@
+Multiple
+¿Cuál era la profesión de Dalí?
+
+pintor
+actor
+poeta
+
+Respuesta
+pintor

@@ -1,0 +1,5 @@
+Imagen
+¿Qué lleva puesto en la cabeza?
+sombrero.png
+Respuesta
+sombrero

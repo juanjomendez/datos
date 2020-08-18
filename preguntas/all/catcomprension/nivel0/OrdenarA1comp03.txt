@@ -1,0 +1,4 @@
+Ordenar
+Yo soy inglesa y vivo en España
+Yo*soy*inglesa*y*vivo*en*España
+

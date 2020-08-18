@@ -1,0 +1,5 @@
+Imagen
+¿Dónde te lavas las manos?
+lavabo.png
+Respuesta
+lavabo

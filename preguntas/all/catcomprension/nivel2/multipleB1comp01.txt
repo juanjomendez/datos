@@ -1,0 +1,9 @@
+Multiple
+A lo mejor compro una televisión Smart.
+
+Va a comprar la televisión.
+No va a comprar la televisión.
+Quizá compre la televisión.
+
+Respuesta
+Quizá compre la televisión.

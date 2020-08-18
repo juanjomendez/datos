@@ -1,0 +1,9 @@
+Multiple
+Necesito pedir un préstamo.
+
+La persona necesita un libro.
+La persona necesita dinero.
+La persona no necesita un libro.
+
+Respuesta
+La persona necesita dinero.
