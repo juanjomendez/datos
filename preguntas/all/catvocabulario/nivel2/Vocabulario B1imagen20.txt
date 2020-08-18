@@ -1,0 +1,5 @@
+Imagen
+¿Qué tipo de cocina es?
+cocinagas.png
+Respuesta
+cocina de gas

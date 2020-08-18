@@ -1,0 +1,9 @@
+Multiple
+Voy a sacar mi entrada, esperadme.
+
+Tiene la entrada en el bolso.
+Va a comprar la entrada.
+Va a imprimir su entrada.
+
+Respuesta
+Va a comprar la entrada.

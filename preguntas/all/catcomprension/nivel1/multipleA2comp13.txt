@@ -1,0 +1,9 @@
+Multiple
+La excursión programada se retrasa una semana por enfermedad del entrenador.
+
+La excursión ha cambiado el horario.
+La excursión se va a hacer otro día.
+La excursión ha sido cancelada.
+
+Respuesta
+La excursión se va a hacer otro día.

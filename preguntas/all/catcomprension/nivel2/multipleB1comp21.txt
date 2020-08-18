@@ -1,0 +1,9 @@
+Multiple
+Información Local:se restringe la circulación en la zona centro.
+
+Está prohibido el tráfico en la ciudad.
+Está prohibido el transporte privado en la ciudad.
+Está prohibido el tráfico en el centro.
+
+Respuesta
+Está prohibido el tráfico en el centro.
