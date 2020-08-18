@@ -1,5 +1,0 @@
-Imagen
-¿Dónde está colgada la lámpara?
-techo.png
-Respuesta
-techo

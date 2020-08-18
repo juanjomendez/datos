@@ -1,9 +1,0 @@
-Multiple
-Se alquila una habitación en piso compartido con tres estudiantes. Ideal para una persona joven.200 €/mes.
-
-El piso puede ser para parejas.
-Se alquila el piso completo.
-Se alquila una habitación.
-
-Respuesta
-Se alquila una habitación.

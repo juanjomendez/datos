@@ -1,5 +1,0 @@
-Imagen
-¿Qué hay al fondo de la foto?
-espejo.png
-Respuesta
-espejo

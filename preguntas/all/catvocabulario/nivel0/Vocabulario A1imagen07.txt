@@ -1,5 +1,0 @@
-Imagen
-¿Qué animal es?
-leon.png
-Respuesta
-león

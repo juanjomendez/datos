@@ -1,9 +1,0 @@
-Audio
-levantosiete.mp3
-¿A qué hora se levanta?
-A las seis
-A las siete
-A las ocho
-
-Respuesta
-A las siete

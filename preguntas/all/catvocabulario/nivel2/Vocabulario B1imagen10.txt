@@ -1,5 +1,0 @@
-Imagen
-¿Qué tipo de casa es?
-chalet.png
-Respuesta
-chalet

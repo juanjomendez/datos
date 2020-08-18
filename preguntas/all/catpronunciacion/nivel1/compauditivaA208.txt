@@ -1,9 +1,0 @@
-Audio
-catedral.mp3
-¿Por qué llama a su amiga?
-Para pedirle una corbata
-Para pedirle un informe
-Para pedirle consejo
-
-Respuesta
-Para pedirle consejo

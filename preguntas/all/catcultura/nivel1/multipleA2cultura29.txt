@@ -1,9 +1,0 @@
-Multiple
-¿Cuál de estos vinos es español?
-
-Rioja
-Lambrusco
-Cavernet
-
-Respuesta
-Rioja

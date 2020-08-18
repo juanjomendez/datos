@@ -1,9 +1,0 @@
-Audio
-hija.mp3
-¿qué dice?
-Mi hija es estudiante.
-Mi hija es buena estudiante.
-Mi hija no es buena estudiante.
-
-Respuesta
-Mi hija es buena estudiante.

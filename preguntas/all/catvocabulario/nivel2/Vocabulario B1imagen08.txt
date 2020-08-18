@@ -1,6 +1,0 @@
-
-Imagen
-¿Cómo se llama la parte roja de la casa?
-tejado.png
-Respuesta
-tejado

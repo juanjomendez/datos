@@ -1,5 +1,0 @@
-﻿Imagen
-¿Qué tienda es?
-fruteria.png
-Respuesta
-frutería

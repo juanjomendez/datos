@@ -1,4 +1,0 @@
-Ordenar
-Hay muchos libros en la biblioteca
-Hay*muchos*libros*en*la*biblioteca
-

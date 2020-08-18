@@ -1,9 +1,0 @@
-Audio
-camarote.mp3
-¿En qué medio de transporte viaja?
-En avión
-En tren
-En barco
-
-Respuesta
-En barco

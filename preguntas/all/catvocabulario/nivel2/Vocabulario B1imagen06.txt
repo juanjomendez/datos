@@ -1,6 +1,0 @@
-
-Imagen
-¿Qué ves al fondo de la imagen?
-balcon.png
-Respuesta
-balcón

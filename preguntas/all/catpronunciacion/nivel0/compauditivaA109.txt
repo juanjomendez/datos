@@ -1,6 +1,0 @@
-Audio2
-nombre.mp3
-¿Qué información pregunta?
-
-Respuesta
-el nombre

@@ -1,9 +1,0 @@
-Multiple
-¿Cuántos apellidos tiene un español?
-
-Uno: el del padre
-Dos: los dos del padre
-Dos: uno del padre y otro de la madre
-
-Respuesta
-Dos: uno del padre y otro de la madre

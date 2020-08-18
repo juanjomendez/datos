@@ -1,9 +1,0 @@
-Multiple
-Me he quedado en el paro.
-
-La persona ha encontrado un trabajo.
-La persona ha perdido su trabajo.
-La persona tiene un empleo mejor.
-
-Respuesta
-La persona ha perdido su trabajo.

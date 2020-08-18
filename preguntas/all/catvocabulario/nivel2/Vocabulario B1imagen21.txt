@@ -1,5 +1,0 @@
-Imagen
-¿Qué tipo de cocina es?
-vitro.png
-Respuesta
-vitrocerámica

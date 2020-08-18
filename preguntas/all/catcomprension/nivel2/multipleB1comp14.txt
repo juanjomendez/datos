@@ -1,9 +1,0 @@
-Multiple
-Me tengo que poner pomada para el dolor de espalda.
-
-La pomada es un jarabe.
-La pomada es una pastilla.
-La pomada es un medicamento de uso externo.
-
-Respuesta
-La pomada es un medicamento de uso externo.

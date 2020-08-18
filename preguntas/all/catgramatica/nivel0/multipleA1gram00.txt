@@ -1,9 +1,0 @@
-Multiple
-¿Cuál es la opción correcta? 
-
-Hola ¿qué tal estás?
-Hola ¿qué tal eres?
-Hola ¿qué tal estoy?
-
-Respuesta
-Hola ¿qué tal estás?
