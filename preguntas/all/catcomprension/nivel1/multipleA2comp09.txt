@@ -1,9 +1,9 @@
 Multiple
 Estudiante de 18 años se ofrece como canguro.
 
-Se vende un canguro.
-La estudiante busca una mascota.
-La estudiante busca trabajo.
+Se vende un canguro
+La estudiante busca una mascota
+La estudiante busca trabajo
 
 Respuesta
-La estudiante busca trabajo.
+La estudiante busca trabajo

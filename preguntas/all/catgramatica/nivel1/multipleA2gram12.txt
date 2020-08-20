@@ -1,9 +1,9 @@
 Multiple
 ¿Compran las manzanas? Si,...compramos.
 
-Lo
-La
-Las
+lo
+la
+las
 
 Respuesta
-Las
+las

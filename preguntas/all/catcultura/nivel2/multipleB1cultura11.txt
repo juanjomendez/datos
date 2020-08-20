@@ -1,9 +1,9 @@
 Multiple
 ¿Cómo se llama El menú de tres platos que ofrecen los restaurantes de lunes a viernes al mediodía por un precio especial?
 
-menú del día
-menú infantil
-menú especial
+Menú del día
+Menú infantil
+Menú especial
 
 Respuesta
-menú del día
+Menú del día

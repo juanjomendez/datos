@@ -1,9 +1,9 @@
 Multiple
 ¿Cuál es la respuesta correcta?
 
-Estamos paseando por el parque.
-Somos paseando por el parque.
-Tenemos paseando por el parque.
+Estamos paseando por el parque
+Somos paseando por el parque
+Tenemos paseando por el parque
 
 Respuesta
-Estamos paseando por el parque.
+Estamos paseando por el parque

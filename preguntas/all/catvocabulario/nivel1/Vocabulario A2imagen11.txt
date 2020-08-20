@@ -1,5 +1,5 @@
 Imagen
-¿Qué es?
+¿Qué ves?
 botella.png
 Respuesta
-botella
+tres botellas

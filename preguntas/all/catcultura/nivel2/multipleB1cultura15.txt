@@ -1,9 +1,9 @@
 Multiple
 ¿Qué profesión tenía Paco de Lucía?
 
-guitarrista
-bailaor
-pintor
+Guitarrista
+Bailaor
+Pintor
 
 Respuesta
-guitarrista
+Guitarrista

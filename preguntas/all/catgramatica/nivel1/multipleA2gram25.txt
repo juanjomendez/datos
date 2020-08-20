@@ -1,9 +1,9 @@
 Multiple
 ¿Cuál es la respuesta correcta?
 
-Todos los días he desayunado tostadas y café.
-Todos los días desayuné tostadas y café.
-Todos los días desayunaba tostadas y café.
+Todos los días he desayunado tostadas y café
+Todos los días desayuné tostadas y café
+Todos los días desayunaba tostadas y café
 
 Respuesta
-Todos los días desayunaba tostadas y café.
+Todos los días desayunaba tostadas y café

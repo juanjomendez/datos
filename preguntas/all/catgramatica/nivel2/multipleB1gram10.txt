@@ -1,9 +1,9 @@
 Multiple
 ¿Cuál es la opción correcta? 
 
-Me parece mal que su empresa hace publicidad engañosa.
-Me parece mal que su empresa hizo publicidad engañosa.
-Me parece mal que su empresa haga publicidad engañosa.
+Me parece mal que su empresa hace publicidad engañosa
+Me parece mal que su empresa hizo publicidad engañosa
+Me parece mal que su empresa haga publicidad engañosa
 
 Respuesta
-Me parece mal que su empresa haga publicidad engañosa.
+Me parece mal que su empresa haga publicidad engañosa

@@ -2,4 +2,4 @@ Imagen
 ¿Qué tipo de dormitorio es?
 dormitorioninos.png
 Respuesta
-dormitorio de los niños
+niños

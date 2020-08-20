@@ -1,9 +1,9 @@
 Multiple
 ¿Cuál es la opción correcta? 
 
-En primer lugar, no tenía ni idea.
-Por primer lugar, no tenía ni idea.
-De primer lugar, no tenía ni idea.
+En primer lugar, no tenía ni idea
+Por primer lugar, no tenía ni idea
+De primer lugar, no tenía ni idea
 
 Respuesta
-En primer lugar, no tenía ni idea.
+En primer lugar, no tenía ni idea
