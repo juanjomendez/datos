@@ -1,0 +1,9 @@
+Audio
+amueblado.mp3
+El piso que se alquila...
+Tiene muebles
+No tiene muebles
+Tiene algunos muebles
+
+Respuesta
+Tiene muebles

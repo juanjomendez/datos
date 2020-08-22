@@ -1,0 +1,9 @@
+Audio
+pasarbien.mp3
+En el audio dice que...
+La fiesta será aburrida
+La fiesta será tarde
+La fiesta será divertida
+
+Respuesta
+La fiesta será divertida

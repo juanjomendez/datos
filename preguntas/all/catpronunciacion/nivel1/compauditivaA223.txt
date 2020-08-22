@@ -1,0 +1,9 @@
+Audio
+largoplazo.mp3
+¿En qué modalidad se puede pagar?
+En efectivo
+Con tarjeta bancaria
+A plazos
+
+Respuesta
+A plazos

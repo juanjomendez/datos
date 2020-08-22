@@ -1,0 +1,9 @@
+Audio
+vueltotrabajar.mp3
+En el audio dice que...
+Ya no trabaja
+Trabaja de nuevo
+Ninguna es correcta
+
+Respuesta
+Trabaja de nuevo
