@@ -1,5 +1,5 @@
 Audio
-vueltotrabajar.mp3
+vueltotrabajo.mp3
 En el audio dice que...
 Ya no trabaja
 Trabaja de nuevo
