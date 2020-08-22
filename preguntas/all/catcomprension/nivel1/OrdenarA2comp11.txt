@@ -1,0 +1,3 @@
+Ordenar
+Te queda muy bien la camisa
+Te queda*muy*bien*la camisa

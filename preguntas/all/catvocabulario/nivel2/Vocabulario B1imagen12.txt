@@ -1,0 +1,5 @@
+Imagen
+¿Qué tipo de dormitorio es?
+dormitorioninos.png
+Respuesta
+niños

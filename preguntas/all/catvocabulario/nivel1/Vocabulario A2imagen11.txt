@@ -1,0 +1,5 @@
+Imagen
+¿Qué ves?
+botella.png
+Respuesta
+tres botellas

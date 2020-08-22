@@ -1,0 +1,9 @@
+Multiple
+¿Cuál es la respuesta correcta?
+
+La estación está en 10 minutos a pie
+La estación está a 10 minutos a pie
+La estación es a 10 minutos a pie
+
+Respuesta
+La estación está a 10 minutos a pie

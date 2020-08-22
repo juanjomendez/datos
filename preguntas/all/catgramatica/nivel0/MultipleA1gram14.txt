@@ -1,0 +1,9 @@
+Multiple
+Indica el infinitivo de "vivo".
+
+Vivar
+Viver
+Vivir
+
+Respuesta
+Vivir

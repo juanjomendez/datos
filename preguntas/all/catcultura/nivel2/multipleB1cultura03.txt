@@ -1,9 +1,9 @@
 Multiple
 Francisco de Goya era un famoso … español.
 
-Músico
-Pintor
-Escultor
+músico
+pintor
+escultor
 
 Respuesta
-Pintor
+pintor

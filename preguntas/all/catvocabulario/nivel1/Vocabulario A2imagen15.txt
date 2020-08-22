@@ -1,0 +1,5 @@
+Imagen
+¿Qué parte del cuerpo tatua?
+brazo.png
+Respuesta
+brazo
