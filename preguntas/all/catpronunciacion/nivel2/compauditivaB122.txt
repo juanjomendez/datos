@@ -1,0 +1,9 @@
+Audio
+ordenador.mp3
+¿Qué le pasa a su ordenador?
+No funciona
+Lo tiene su hermano
+No tiene ordenador
+
+Respuesta
+No funciona
