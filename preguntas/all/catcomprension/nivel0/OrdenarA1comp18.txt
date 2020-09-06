@@ -1,3 +1,3 @@
 Ordenar
-Soy una реrsопа alegre у divertida
-Soy*una реrsопа*alegre у*divertida
+Soy una persona alegre y divertida
+Soy*una persona*alegre y*divertida
