@@ -1,0 +1,5 @@
+Imagen
+¿Qué lleva puesto?
+abrigo.png
+Respuesta
+abrigo

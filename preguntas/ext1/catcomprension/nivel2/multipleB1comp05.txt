@@ -1,0 +1,9 @@
+Multiple
+Entrada Bioparc con comida incluida:15€ Los niños menores de 3 años entran gratis.
+
+Los niños de 3 años entran gratis.
+Los niños de 3 años pagan 15€
+Ninguna respuesta es correcta.
+
+Respuesta
+Los niños de 3 años entran gratis.

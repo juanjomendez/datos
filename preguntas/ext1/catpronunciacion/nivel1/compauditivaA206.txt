@@ -1,0 +1,6 @@
+Audio2
+cita.mp3
+¿A qué hora tiene la cita?
+
+Respuesta
+A las diez y media

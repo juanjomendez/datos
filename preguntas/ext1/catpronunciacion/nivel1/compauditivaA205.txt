@@ -1,0 +1,9 @@
+Audio
+catedral.mp3
+¿Dónde quiere ir?
+A la farmacia
+Al centro comercial
+A la catedral
+
+Respuesta
+A la catedral

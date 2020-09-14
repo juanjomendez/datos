@@ -1,0 +1,5 @@
+Imagen
+¿Qué animal es?
+gatito.png
+Respuesta
+gatito
